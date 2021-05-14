@@ -1,0 +1,33 @@
+[ {
+  "id" : 0,
+  "regDate" : "2021-05-04 13:07:58",
+  "updateDate" : "2021-05-04 13:13:14",
+  "title" : "test02",
+  "body" : "test02",
+  "member_num" : 0,
+  "board_id" : 0
+}, {
+  "id" : 1,
+  "regDate" : "2021-05-04 13:13:28",
+  "updateDate" : "",
+  "title" : "test",
+  "body" : "test",
+  "member_num" : 0,
+  "board_id" : 1
+}, {
+  "id" : 2,
+  "regDate" : "2021-05-04 13:16:55",
+  "updateDate" : "",
+  "title" : "test",
+  "body" : "tset",
+  "member_num" : 0,
+  "board_id" : 0
+}, {
+  "id" : 3,
+  "regDate" : "2021-05-13 11:51:38",
+  "updateDate" : "",
+  "title" : "hi!",
+  "body" : "hi!!",
+  "member_num" : 1,
+  "board_id" : 1
+} ]
